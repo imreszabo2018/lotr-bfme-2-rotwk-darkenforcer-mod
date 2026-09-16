@@ -1,0 +1,18 @@
+The mod runs with the original version of the game.
+
+
+1. On your desktop, search for "The Lord of the Rings, The Rise of the Witch-king"
+
+2. Right-click your new shortcut and select Properties.
+
+3. Go to the Shortcut tab. In the Target box, you will see the file path wrapped in quotation marks 
+(e.g., "C:\EA\The Lord of the Rings, The Rise of the Witch-king\lotrep2.exe").
+
+4. Add the mod parameter: Click at the very end of the text in the Target box, press the Spacebar, 
+type -mod followed by another space, and then type the exact name of your mod's folder or .big file
+Something like:
+D:\Games\rotwk\lotrbfme2ep1.exe -mod "D:\Games\darkenforcer"
+
+5. Save changes: Click Apply and then OK
+
+6. Launch the game
