@@ -27,6 +27,7 @@ D:\Games\rotwk\lotrbfme2ep1.exe -mod "D:\Games\darkenforcer"
 
 Gallery:
 
+<img width="1254" height="1254" alt="darkenforcermod" src="https://github.com/user-attachments/assets/9c80d932-a0d6-495f-9505-7a9036a7144b" />
 <img width="1915" height="1078" alt="moddb1" src="https://github.com/user-attachments/assets/2c186750-03d6-40ad-8906-8988c2987205" />
 <img width="1915" height="1078" alt="moddb2" src="https://github.com/user-attachments/assets/9509af4b-f8cc-4c35-96c5-a000b6f81427" />
 
