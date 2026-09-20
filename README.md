@@ -28,6 +28,10 @@ D:\Games\rotwk\lotrbfme2ep1.exe -mod "D:\Games\darkenforcer"
 Gallery:
 
 <img width="1254" height="1254" alt="darkenforcermod" src="https://github.com/user-attachments/assets/9c80d932-a0d6-495f-9505-7a9036a7144b" />
-<img width="1915" height="1078" alt="moddb1" src="https://github.com/user-attachments/assets/2c186750-03d6-40ad-8906-8988c2987205" />
-<img width="1915" height="1078" alt="moddb2" src="https://github.com/user-attachments/assets/9509af4b-f8cc-4c35-96c5-a000b6f81427" />
+<img width="1910" height="1070" alt="moddb1" src="https://github.com/user-attachments/assets/2bb19631-48c3-438d-878e-48e139f0462d" />
+<img width="1910" height="1070" alt="moddb2" src="https://github.com/user-attachments/assets/3876a998-7580-4964-92ef-21d37cbed3cf" />
+<img width="1910" height="1070" alt="moddb3" src="https://github.com/user-attachments/assets/10faab25-e64e-4ba9-9b55-2a9ef14437ed" />
+<img width="1910" height="1070" alt="moddb4" src="https://github.com/user-attachments/assets/b92f4291-b585-4998-9793-ce32f3f3e857" />
+<img width="1910" height="1070" alt="moddb5" src="https://github.com/user-attachments/assets/073bb592-b5e4-40a1-a5b7-5490537c03be" />
+
 
